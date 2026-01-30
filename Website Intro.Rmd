@@ -1,0 +1,38 @@
+---
+title: "Blain Murphy: Personal website"
+output:
+  html_document:
+    theme: cerulean     # blue‑themed Bootstrap template
+    toc: false
+    highlight: tango
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+
+```
+
+## Introduction 
+
+Hi, I’m Blain Murphy,
+
+an experienced research manager, multi‑disciplinary team collaborator, and public health professional based in Belfast, Northern Ireland. My background blends psychology, clinical research, public health, and organisational leadership.
+
+On a personal level, I am an avid Dodgeballer and Monaghan GAA fan. I am mostly using this side to sho off some of my independent work, and some of my projects over the years. Like a portfolio.
+
+## Selected Reports
+
+# Dodgeball in Ireland: ROI
+
+Ireland’s international dodgeball programme has evolved dramatically since its first appearance in 2011. This report captures the full competitive history of every player who has represented Ireland across Euros, Worlds, Nations Cup, and NEC tournaments. It includes **120 capped players**, spanning **15 years**.
+
+<a href="https://example.com" target="_blank">Open report</a>
+
+## About This Site 
+
+This website is built with R Markdown and published via GitHub Pages. All content is generated from reproducible code to support transparency and easy updates as new data become available. The data that underpins is available upon request.

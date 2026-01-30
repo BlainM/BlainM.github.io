@@ -1,0 +1,117 @@
+---
+title: "Publications"
+author: "Dr. Blain Murphy"
+output:
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    fig_caption: true
+    includes:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+## Introduction
+
+Background Dr. Blain Murphy (BSc. [Hons] MSc) is a experienced Public Health researcher specialising in the field of two-way communication, and consumer trust. Blain obtained his BSc and MSc in Psychology and previously worked in behaviour change projects within that area. He has significant experience working within several large-scale EU funded research projects (under EIT and Horizon 2020 programmes), as well as multiple All-Ireland projects in food science, consumer communication, evaluation and behavioural change. Blain’s PhD involved improving communication between doctors and cancer-related conditions, mapping service pathways in rare diseases and international best practices.
+
+## One Health
+
+Murphy, B., McKernan, C., Lawler, C., Reilly, P., Messam, L. L. M., Collins, D., ... & More, S. J. (2022). A qualitative exploration of challenges and opportunities for dog welfare in Ireland post COVID-19, as perceived by dog welfare organisations. Animals, 12(23), 3289. <https://www.mdpi.com/2076-2615/12/23/3289>
+
+McKernan, C., Lawler, C., Murphy, B., Collins, D. M., More, S. J., Murray, S., ... & Messam, L. L. M. (2023). A mixed-method survey to understand the role of dog welfare organisations in Ireland, including reported challenges and potential solutions. Irish Veterinary Journal, 76(1), 27.<https://link.springer.com/article/10.1186/s13620-023-00249-6>
+
+## Food Security
+
+Murphy, B., Martini, M., Fedi, A., Loera, B. L., Elliott, C. T., & Dean, M. (2022). Consumer trust in organic food and organic certifications in four European countries. Food Control, 133, 108484. <https://www.sciencedirect.com/science/article/abs/pii/S0956713521006228?via%3Dihub>
+
+Murphy, B., Benson, T., Lavelle, F., Elliott, C., & Dean, M. (2021). Assessing differences in levels of food trust between European countries. Food Control, 120, 107561. <https://www.sciencedirect.com/science/article/abs/pii/S0956713520304771?via%3Dihub>
+
+Murphy, B., Benson, T., McCloat, A., Mooney, E., Elliott, C., Dean, M., & Lavelle, F. (2020). Changes in consumers’ food practices during the COVID-19 lockdown, implications for diet quality and the food system: a cross-continental comparison. Nutrients, 13(1), 20. <https://www.mdpi.com/2072-6643/13/1/20>
+
+Martini, M., Fedi, A., Murphy, B., Dean, M., & Loera, B. (2024). More Than Organic: Consumer Expectations of Sustainability and Quality. Evidences from a Qualitative Study in Italy. Journal of Food Products Marketing, 30(1), 1-15. <https://www.tandfonline.com/doi/full/10.1080/10454446.2023.2284725>
+
+Lavelle, F., McKernan, C., Murphy, B., & Dean, M. (2023). Food safety and convenience meals: consumers' actual and perceived behaviours–a mixed methods study. British Food Journal, 125(8), 2838-2857. <https://www.emerald.com/bfj/article-abstract/125/8/2838/65527/Food-safety-and-convenience-meals-consumers-actual?redirectedFrom=fulltext>
+
+Martini, M., Loera, B., Murphy, B., Dean, M., Dansero, E., & Fedi, A. (2023). “GPS in my salad?” A mixed method study of consumers’ perception of biomarkers in organic vegetables. Journal of International Consumer Marketing, 35(1), 1-18. <https://www.tandfonline.com/doi/full/10.1080/08961530.2023.2166236>
+
+Loera, B., Murphy, B., Fedi, A., Martini, M., Tecco, N., & Dean, M. (2022). Understanding the purchase intentions for organic vegetables across EU: a proposal to extend the TPB model. British Food Journal, 124(12), 4736-4754. <https://www.emerald.com/bfj/article-abstract/124/12/4736/40071/Understanding-the-purchase-intentions-for-organic?redirectedFrom=fulltext>
+
+Dean, M., O'Kane, C., Issartel, J., McCloat, A., Mooney, E., McKernan, C., ... & Lavelle, F. (2022). Cook Like A Boss: An effective co-created multidisciplinary approach to improving children's cooking competence. Appetite, 168, 105727. <https://www.sciencedirect.com/science/article/abs/pii/S0195666321006346?via%3Dihub>
+
+Benson, T., Murphy, B., McCloat, A., Mooney, E., Dean, M., & Lavelle, F. (2022). From the pandemic to the pan: the impact of COVID-19 on parental inclusion of children in cooking activities: a cross-continental survey. Public Health Nutrition, 25(1), 36-42. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8314190/>
+
+## Cancer
+
+Murphy, B., McShane, C. M., Santin, O., Treanor, C., Byrne, B., Donnelly, M., & Anderson, L. A. (2021). Patient's perspectives of living with a precancerous condition: monoclonal gammopathy of undetermined significance (MGUS). European Journal of Oncology Nursing, 51, 101901. [https://www.ejoncologynursing.com/article/S1462-3889(21)00007-7/abstract](https://www.ejoncologynursing.com/article/S1462-3889(21)00007-7/abstract){.uri}
+
+McShane, C. M., Murphy, B., Santin, O., & Anderson, L. A. (2019). Low knowledge and awareness of monoclonal gammopathy of undetermined significance (MGUS) among general practitioners. BMC Family Practice, 20, 1-8. <https://link.springer.com/article/10.1186/s12875-019-0944-5>
+
+McShane, C. M., Murphy, B., Lim, K. H., & Anderson, L. A. (2018). Monoclonal gammopathy of undetermined significance as viewed by haematology healthcare professionals. European Journal of Haematology, 100(1), 20-26. <https://onlinelibrary.wiley.com/doi/10.1111/ejh.12962>
+
+## Mental Health and Wellbeing
+
+Morgan‐Brown, M., Brangan, J., McMahon, R., & Murphy, B. (2019). Engagement and social interaction in dementia care settings. A call for occupational and social justice. Health & social care in the community, 27(2), 400-408. <https://onlinelibrary.wiley.com/doi/10.1111/hsc.12658>
+
+Doumas, M., McKenna, R., & Murphy, B. (2016). Postural control deficits in autism spectrum disorder: the role of sensory integration. Journal of autism and developmental disorders, 46, 853-861. <https://link.springer.com/article/10.1007/s10803-015-2621-4>
+
+### Project Outputs
+
+## +CityxChange: Smart City Monitoring and Evaluation Reporting
+
++CityxChange was a major EU Horizon 2020 smart‑city project focused on creating “Positive Energy Districts” (PEDs)—urban areas that produce more clean energy than they consume—through integrated planning, local energy markets, and deep community participation. It ran from 2018–2023, led by NTNU (Norway), with demonstration sites in Trondheim and Limerick, and five follower cities across Europe.
+
+-   Final report of the Quantitative Monitoring and Evaluation process at the end of the 5 years of the +CityxChange project. This report describes the work that has been completed in the project and reports on the progress that the partners have made towards the goals of the project and the impact on their cities and organisations. My role was lead author on this report. <https://cityxchange.eu/knowledge-base/d7-18-reporting-to-the-scis-system-10/>
+
+- Quantitative Monitoring and Evaluation Report 7 <https://cityxchange.eu/knowledge-base/d7-13-reporting-to-the-scis-system-7/>
+
+- Quantitative Monitoring and Evaluation Report 8 <https://cityxchange.eu/knowledge-base/d7-15-reporting-to-the-scis-system-8/>
+
+- Quantitative Monitoring and Evaluation Report 9 <https://cityxchange.eu/knowledge-base/d7-16-reporting-to-the-scis-system-9/>
+
+-   Final report of the Qualitative Monitoring and Evaluation process at the end of the 5 years of the +CityxChange project. This report provides derived insights and practical recommendations stemming from monitoring and evaluation data and engagement with project partners with regard to the various interventions executed in the Lighthouse Cities and Follower Cities in the project.My role was lead author on this report. <https://cityxchange.eu/knowledge-base/d7-17-data-collection-and-management-guideline-reports-5/>
+
+- Qualitative Monitoring and Evaluation 3 <https://cityxchange.eu/knowledge-base/d7-11-data-collection-and-management-guideline-reports-3/>
+
+- Qualitative Monitoring and Evaluation 4 <https://cityxchange.eu/knowledge-base/d7-14-data-collection-and-management-guideline-reports-4/>
+
+-   How to PED. The +CityxChange Cookbook: Experiences and Guidelines on Positive Energy Districts. This “How to PED” cookbook contains experiences, lessons learned, and recommendations gained throughout the 5 years of the +CityxChange EU Horizon 2020 project, specifically focused on the variety of activities necessary to design and build Positive Energy Districts (PEDs) in smart sustainable cities and communities. My role was a contributor on this report. <https://zenodo.org/records/8372848>
+
+
+## BIPED: Building Intelligent Positive Energy Districts: : Smart City Monitoring and Evaluation Reporting
+
+- Evaluation Action Plan: This report describes the creation of a methodology plan to cover testing cycles and project validation. The framework is expanded in this deliverable to include the methodology, tools and scenarios to be tested from the solution developed.  
+Initial: <https://www.bi-ped.eu/_files/ugd/ef6796_e7e1ffd5a277471bb2090b7163f0a050.pdf> 
+Update 1: <https://www.bi-ped.eu/_files/ugd/ef6796_9d84c46cda2a477ab0bc56e9da5de6f5.pdf>
+
+
+
+## PracticE Ecosystem for StandaRdS (PEERS) 
+PEERS was a Horizon Europe project aiming to advance and reinforce the European Union's operational safety and security policies through the development of a practitioner-driven ecosystem focused on pre-normative / standardisation processes and supporting tools, the CBRNe Knowledge Hub.
+
+- CBRNe Knowledge Hub. The Hub supports the effective strengthening of preparedness and response in the field of CBRNe through a co-creation approach resulting in the practitioner-driven Better Practice Guide initiative, gamification and e-Learning support. It primarily targets assisting Europe's CBRNe practitioners, European research policymaking as well as other stakeholders including the research community and national standardisation bodies, who have proactively contributed to ensure effective delivery. <https://peers.universityofgalway.ie/>
+
+- Data Management Plan <https://peers-project.eu/wp-content/uploads/2024/02/D1.1_PEERS-data-management-plan_Executive-summary.pdf>
+
+- Project Quality & Risk Assessment Plan  <https://peers-project.eu/wp-content/uploads/2024/02/D1.2_Project-Quality-Risk-Assessment-Plan_Executive-summary.pdf> 
+
+- PEERS Exploitation Strategy (V1 & V2) <https://peers-project.eu/wp-content/uploads/2024/02/D6.6_PEERS-Exploitation-Strategy_Executive-summary.pdf>, <https://peers-project.eu/wp-content/uploads/2024/11/D6.7_PEERS-exploitation-strategy-version-2_v1.0_FORMIT.pdf>
+
+## Adoption of Modern Methods of Construction (MMC) in Ireland
+
+Development of Metrics for broader MMC development and research orientation in Ireland. The key tasks were the development of an internal dashboard for the Modern Methods of Construction Leadership and Integration Group/ Department of Enterprise, Trade and Employment in the Republic of Ireland. The dashboard and report are not available publicly. 
+
+
+
+
+
+
+
+ 
+
+## ORCID ID
+
+<https://orcid.org/0000-0002-7857-0105/print>
